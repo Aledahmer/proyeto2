@@ -1,0 +1,4 @@
+en este proyecto subi la coleccion de granja a mongodb y cree un crud en nodejs
+podras obtener los productos en general, por su codigo, nombre abreviado y categoria
+tambiar se podra crear un nuevo producto, modificar y eleminar.
+Alumno Alejandro Dahmer. gracias. nose si habia que realzar algo mas creo que esta todo
